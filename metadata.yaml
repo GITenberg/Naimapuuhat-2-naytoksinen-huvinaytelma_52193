@@ -1,10 +1,13 @@
 _repo: Naimapuuhat-2-naytoksinen-huvinaytelma_52193
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Repo, K.
     gutenberg_agent_id: '46719'
     url: http://www.gutenberg.org/2009/agents/46719
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gogol, Nikolai Vasilevich
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/531
     wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
 description: Translation of Женитьба (Zhenitʹba).
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52193#Naimapuuhat-2-naytoksinen-huvinaytelma
 gutenberg_issued: '2016-05-30'
 gutenberg_type: Text
 identifiers:
