@@ -1,0 +1,35 @@
+_repo: Naimapuuhat-2-naytoksinen-huvinaytelma_52193
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Repo, K.
+    gutenberg_agent_id: '46719'
+    url: http://www.gutenberg.org/2009/agents/46719
+creator:
+  author:
+    agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Gogol, Nikolay Vasilyevich
+    - Гоголь, Николай Васильевич
+    - Gogol, Nikolaj
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+description: Translation of Женитьба (Zhenitʹba).
+gutenberg_issued: '2016-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52193'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian drama -- Translations into Finnish'
+- !lcsh 'Russia -- Drama'
+- GITenberg
+title: 'Naimapuuhat: 2-näytöksinen huvinäytelmä'
+url: http://www.gutenberg.org/ebooks/52193
